@@ -1,0 +1,2 @@
+# etcetra
+Various JavaScript utilities.
